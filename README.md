@@ -1,10 +1,3 @@
-# Pytest_requests_allure
-Пример автотестов на pytest + requests с отчетом Allure
-
-<img width="2256" height="1504" alt="pytest _ requests_allure" src="https://github.com/user-attachments/assets/72b9bf6c-83d1-4348-bd28-c1c9f9c50ac5" />
-
-<img width="2029" height="1504" alt="tests_api_pytest_requests_allure" src="https://github.com/user-attachments/assets/30596859-8351-4e13-b164-418a764c4ead" />
-
 # PULS – API SMS Registration Tests
 Автоматические тесты для проверки регистрации и авторизации пользователей через SMS на платформе **PULS** (`upjet.dev.sandakov.space`).
 ## Используемый стек

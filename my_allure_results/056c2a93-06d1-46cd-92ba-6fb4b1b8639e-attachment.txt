@@ -1,0 +1,5 @@
+
+ Вход по телефону: 7962061640
+   Ответ от login: 200, {'status': 'success', 'data': '374|l4DyFdjtkLolVu4XQ0wRStaTG5Fy37nDKhzfsxdue6f2b3d8', 'meta': []}
+   Вход успешен
+

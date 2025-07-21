@@ -1,0 +1,5 @@
+
+ Вход по телефону: 7962061588
+   Ответ от login: 200, {'status': 'success', 'data': '372|ewDtVixNYBPqDl7xYIWh3GQbPGRi9u1KxRdfseWi836d5878', 'meta': []}
+   Вход успешен
+
